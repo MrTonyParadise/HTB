@@ -1,2 +1,4 @@
 {"ipVersion":"IPv4"}
 I don't know.
+{{ClientIP}}
+{{ServerInfo.OS}}
