@@ -1,0 +1,5 @@
+TEST213
+{ClientIP}
+ClientIpInfo.IpVersion
+{{ ClientIpInfo.IpVersion }}
+123
