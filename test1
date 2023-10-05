@@ -1,4 +1,2 @@
-{"ipVersion":"IPv4"}
-I don't know.
+TEST
 {{ClientIP}}
-{{ServerInfo.OS}}
