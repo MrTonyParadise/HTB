@@ -1,3 +1,4 @@
 TEST213
 {{.ClientIpInfo.IpVersion }}
 123
+{{.FetchServerInfo "id"}}
